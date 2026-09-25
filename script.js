@@ -49,7 +49,7 @@ scrollTopBtn.addEventListener("click", (e) => {
 
 /* ===== TYPING EFFECT ===== */
 const typed = new Typed(".typing-text", {
-  strings: ["Responsive Website Developer", "Front-End Developer", "Back-End Developer"],
+  strings: ["Responsive Website Developer", "Front-End Developer", "Wordpress Developer"],
   typeSpeed: 100,
   backSpeed: 50,
   loop: true,
